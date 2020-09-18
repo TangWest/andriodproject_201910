@@ -17,5 +17,5 @@ Huawei Hunor 10 正常运行
 Huawei Hunor 20 正常运行
 Huawei6X 正常运行
 
-## 主要函数功能：
+### 主要函数功能：
 ![Image text](https://github.com/TangWest/andriodproject_201910/blob/master/READMEPIC/1.jpg)
